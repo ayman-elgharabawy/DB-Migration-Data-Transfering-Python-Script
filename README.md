@@ -1,4 +1,4 @@
-# DB-Migration-Data-Transfering-Python-Script
+# DB-Migration-Python-Script
 Python Script used to migrate Data from SQLServer to Postgres DB , for specific tables , useful Example for DB migration
 this script create tables in postgres DB and migrate data from sqlservler DB to postgres DB 
 Steps of the migration
