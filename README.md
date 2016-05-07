@@ -4,8 +4,11 @@ this script create tables in postgres DB and migrate data from sqlservler DB to 
 Steps of the migration
 
 1-Create sql file to create a DB tables (i use postgres designer tool)
+
 2-create python script
+
 2.1 execute the sql file for schema structure
+
 2.2 query on the data in sqlserver and retrieve the info and insert the data in postgres
 
 run the python script
